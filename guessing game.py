@@ -23,6 +23,5 @@ def main ():
                 print("Whoops! That number is out of range. Gotta be between 1 and 100, champ!")
         except ValueError :
             print ("Invalid input. Please enter a number.")
-            
-     
+             
 main()
